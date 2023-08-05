@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "millis.h": "c",
+        "configurator_functions.h": "c",
+        "configurator_variables.h": "c"
+    }
+}
